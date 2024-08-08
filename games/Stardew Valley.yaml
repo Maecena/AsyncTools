@@ -131,3 +131,59 @@ Stardew Valley:
   gifting: 'true'
   mods: []
   death_link: 'false'
+triggers:
+    - option_category: Stardew Valley #not finished
+      option_name: goal
+      option_result: community_center
+      options:
+        Stardew Valley:
+    - option_category: Stardew Valley #not finished
+      option_name: goal
+      option_result: grandpa_evaluation
+      options:
+        Stardew Valley:
+    - option_category: Stardew Valley #not finished
+      option_name: goal
+      option_result: bottom_of_the_mines
+      options:
+        Stardew Valley:
+    - option_category: Stardew Valley #not finished
+      option_name: goal
+      option_result: master_angler #catch all fishsanity fish
+      options:
+        Stardew Valley:
+    - option_category: Stardew Valley #not finished
+      option_name: goal
+      option_result: complete_collection #finish museum
+      options:
+        Stardew Valley:
+    - option_category: Stardew Valley #not finished
+      option_name: goal
+      option_result: protector_of_the_valley # complete monsterslayer goals, follows monstersanity
+      options: 
+        Stardew Valley:
+    - option_category: Stardew Valley #not finished
+      option_name: goal
+      option_result: full_shipment # ship all items, follows shipsanity
+      options:
+        Stardew Valley:
+    - option_category: Stardew Valley #not finished
+      option_name: goal
+      option_result: gourmet_chef # cook every recipe, follows cooksanity
+      options:
+        Stardew Valley:
+    - option_category: Stardew Valley #not finished
+      option_name: goal
+      option_result: craft_master #craft every item
+      options:
+        Stardew Valley:
+    - option_category: Stardew Valley #not finished
+      option_name: goal
+      option_result: legend # earn 10,000,000
+      options:
+        Stardew Valley:
+    - option_category: Stardew Valley #not finished
+      option_name: goal
+      option_result: mystery_of_the_stardrops #find every stardrop
+      options:
+        Stardew Valley:
